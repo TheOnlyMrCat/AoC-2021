@@ -1,0 +1,7 @@
+/target
+/input
+
+# Normally, I would push my runscript, but this one contains a secret
+# and I haven't any way to hide it yet. Maybe I'll do it when I release
+# runscript 2.0
+run
